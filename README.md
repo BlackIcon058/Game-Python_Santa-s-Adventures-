@@ -10,9 +10,8 @@
 
 ### Installing
 
-- [1] Gitbash: git clone https://github.com/BlackIcon058/MobilePhoneECommerceWebsite.git
-- [2] Run file: 
-
+- [1] Gitbash: git clone https://github.com/BlackIcon058/Game-Python_Santa-s-Adventures-.git
+- [2] Run file: main.py
 
 ## Authors
   - **Nguyen Hoang Quan** 
